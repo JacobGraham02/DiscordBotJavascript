@@ -1,0 +1,15 @@
+{
+  "name": "discord_comp2020_bot",
+  "version": "1.0.0",
+  "description": "This is a javascript bot built for the discord comp2020 server that helps with various school-related tasks. For example, a subset of what the bot will do is keep track of due dates and fetch online resources about a certain topic, such as javascript.info for a javascript tutorial resource\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jacob Graham",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
